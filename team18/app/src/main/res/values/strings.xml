@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Station</string>
+    <string name="refresh_weather">Refresh Weather</string>
+    <string name="no_forecast_data">No forecast data available</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="location_not_found">Location not found</string>
+    <string name="permission_denied">Location permission denied</string>
+    <string name="weather_icon">Weather Icon</string>
+</resources>
